@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6n0036/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0036/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論了義燈記
+  identifiers:
+    krp: KR6n0036
+    cbeta: X49n0812
+    cbeta_old_id: X49n0812
+    authorityid: CA0000457
+    json_key: X0812
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X49/X49n0812.xml
+    old_id: X49n0812
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0036_000-X.yaml, hash: 'sha256:daf7c0efdb3239561e626cb636db0a1436fc867bf9d5dedb52b90dff82321d89'}
+  - {seq: 2, filename: KR6n0036_002-X.yaml, hash: 'sha256:f75eec8475365202780517c42df0f338aecdc9c5f0128145cf7ff2ae4d2a02ec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0036_000-X.markers.yaml, hash: 'sha256:e1a7036e2468a772aa31102fb1a7f5ec25cec2960978b1961da3e5ec034b719d'}
+  - {seq: 2, role: markers, filename: assets/KR6n0036_002-X.markers.yaml, hash: 'sha256:486b4cd958c1fdfe658137413c55bdb4a367347e11d364826e64d96e071e67dc'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6n0036_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13236
+  label: 成唯識論了義燈記第三第四第六第七第八
+  type: juan
+  level: 1
+hash: sha256:83febe552d4a0dd4d886116cd6ca0e6988dda11b162499b4ab1e76a0b38005ec
