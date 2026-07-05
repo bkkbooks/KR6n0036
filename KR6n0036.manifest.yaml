@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0036_000.yaml, hash: 'sha256:daf7c0efdb3239561e626cb636db0a1436fc867bf9d5dedb52b90dff82321d89'}
-  - {seq: 2, filename: KR6n0036_002.yaml, hash: 'sha256:f95d460eb48e0a5a58fc509bd8de4fc63b0a16c6f2ea65dee8c7885e7264b0bc'}
+  - {seq: 2, filename: KR6n0036_002.yaml, hash: 'sha256:f75eec8475365202780517c42df0f338aecdc9c5f0128145cf7ff2ae4d2a02ec'}
   markers:
-  - {seq: 2, role: markers, filename: assets/KR6n0036_002.markers.yaml, hash: 'sha256:d62ed075fd514161fc41419bc4db44a0a806e75afc830c697752d1585a249d00'}
+  - {seq: 0, role: markers, filename: assets/KR6n0036_000.markers.yaml, hash: 'sha256:9ad3c72db13057f6843284ef2b2a8b6c3a0ea5ed7bdac473a1786dda68f74e47'}
+  - {seq: 2, role: markers, filename: assets/KR6n0036_002.markers.yaml, hash: 'sha256:401a231fd143c9ec98f6edbdf5bf8c471eba71d37be248438189715a682ac05c'}
 table_of_contents:
 - ref:
     seq: 2
@@ -36,7 +37,4 @@ table_of_contents:
   label: 成唯識論了義燈記第三第四第六第七第八
   type: juan
   level: 1
-hash: sha256:eade756ec04b9ef5dd5f78652b2442d50eeafdfed358c206714eded7aa79e4ab
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a583bc99f0064630083f3a27240457494af34031fe4649a8aa9745073031b1d
