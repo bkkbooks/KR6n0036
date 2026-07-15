@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0036/v1
 canonical_location: https://kanripo.org/bkk/KR6n0036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 成唯識論了義燈記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0036_000.yaml, hash: 'sha256:daf7c0efdb3239561e626cb636db0a1436fc867bf9d5dedb52b90dff82321d89'}
-  - {seq: 2, filename: KR6n0036_002.yaml, hash: 'sha256:f75eec8475365202780517c42df0f338aecdc9c5f0128145cf7ff2ae4d2a02ec'}
+  - {seq: 2, filename: KR6n0036_002.yaml, hash: 'sha256:11d3113a373402c87478a68bb86787e9ac97527fa7508edf466aee0dd3433f76'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0036_000.markers.yaml, hash: 'sha256:9ad3c72db13057f6843284ef2b2a8b6c3a0ea5ed7bdac473a1786dda68f74e47'}
-  - {seq: 2, role: markers, filename: assets/KR6n0036_002.markers.yaml, hash: 'sha256:401a231fd143c9ec98f6edbdf5bf8c471eba71d37be248438189715a682ac05c'}
+  - {seq: 2, role: markers, filename: assets/KR6n0036_002.markers.yaml, hash: 'sha256:f30c44b57f8f09a9a291ab56e41d5cdad285e212edbe2a301439405fff98a57b'}
 table_of_contents:
 - ref:
     seq: 2
@@ -37,4 +37,7 @@ table_of_contents:
   label: 成唯識論了義燈記第三第四第六第七第八
   type: juan
   level: 1
-hash: sha256:6a583bc99f0064630083f3a27240457494af34031fe4649a8aa9745073031b1d
+hash: sha256:c8c58073bb1a2ea30c1d932e224dbd6b0175384820e0ce7161b0be0ee0cc56e6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
